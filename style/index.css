@@ -1,0 +1,41 @@
+header{
+background: url("/img/IGA2020-winner-summary-Meet-the-Best-Gadgets-of-2020.webp");
+height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo{
+    width: 100px;
+}
+.l:hover{
+color: #fb5600 !important;
+transition: 0.8s;
+}
+.l{
+    font-size: 20px;
+    font-weight: 500;
+    color: black !important;
+}
+.o{
+    color: rgb(207, 219, 34);
+}
+.h{
+    font-size: 55px;
+    color: #5800fb;
+
+}
+.mac{
+    font-size: 20px !important;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+}
+.btn:hover{
+    box-shadow: 1px 4px 1px 2px black;
+    transition: 0.5s;
+}
+
+img{
+    width: 200px !important;
+}
